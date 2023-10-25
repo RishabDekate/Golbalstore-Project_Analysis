@@ -1,0 +1,1 @@
+# Golbalstore-Project_Analysis
