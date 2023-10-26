@@ -11,3 +11,7 @@ Steps for Analysis:
 
 Problem Statement:
 
+The store owners want to understand the Sales of the products that are making profits and products that are providing them loss, even the delivery rates and market segments where the products are mostly sold.
+	Even understand which segment of customers are mostly ordering the products and the names of high valued customers that purschase from the store more often or regularly.
+
+ 
